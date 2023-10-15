@@ -1,9 +1,9 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<h1 align="center">Hii 👋, I'm Wisnu Al Hussaeni</h1>
-<h3 align="center">I'm a computer science in IPB University. I have interest in web development, data science, machine learning, and graphic designer.</h3>
+<h2 align="center">Hii 👋, I'm Wisnu Al Hussaeni</h2>
+<h4 align="center">I'm a computer science in IPB University. I have interest in web development, data science, machine learning, and graphic designer.</h4>
 
-- 📫 How to reach me **nualhussaeni@gmail.com**
+- 👨‍💻 How to reach me **https://wisnu5.github.io/Portofolio-Wisnu/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
